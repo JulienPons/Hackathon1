@@ -1,0 +1,268 @@
+
+/*index*/
+.fire{
+    background: url("https://thumbs.gfycat.com/ImaginativeGrandioseArcticwolf-size_restricted.gif");
+    background-size: 100%;
+}
+
+.h5-card{
+    color:black;
+}
+
+.p-resume{
+    font-family: cursive;
+    text-align: center;
+    font-size: 20px;
+}
+
+.h2-winner{
+    margin-bottom: 20px;
+}
+#scrollUp {
+    position: fixed;
+    bottom : 50px;
+    right: -100px;
+    opacity: 0.5;
+}
+
+.card {
+    height: 380px;
+}
+
+.btn-card {
+    white-space: normal;
+    margin-bottom: 20px;
+}
+.btn-lg {
+    font-family: 'Press Start 2P', cursive;
+    background-color: darkorange;
+}
+.btn-hit{
+    font-family: cursive;
+}
+.section-header{
+    margin: 20px auto;
+}
+.btn-primary{
+     background-color: darkorange;
+     border-color: darkred;
+ }
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle{
+    background-color: darkorange;
+    border-color: darkred;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:active:hover,
+.btn-primary:focus {
+    background-color: darkorange;
+    border-color: darkred;
+}
+
+/* Page Arena*/
+
+p{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: white;
+}
+
+.h1-fight, .h2-fight, .h3-fight{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+
+ .h1-fight{
+     padding: 10px;
+ }
+
+.h2-fight{
+    border: solid;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    background-color: darkred;
+}
+
+.h3-fight{
+    margin: 15px;
+}
+
+.PV-fight{
+    margin: 10px;
+    height: 30px;
+    border: solid;
+    border-radius: 10px;
+}
+.display-5{
+    margin: auto;
+    text-align: center;
+}
+
+.img-fight{
+    border-radius: 140px;
+    display: block;
+    height: 280px;
+    width: 280px;
+}
+
+.img-winner{
+    margin : 20px auto;
+}
+
+.btn-attack{
+    margin: auto;
+}
+
+.btn-1, .btn-2, .btn-3, .btn-4{
+    width: 200px;
+    margin: 5px;
+}
+
+.section-fight{
+    background-color: darkred;
+}
+
+.bdr-speciality-top{
+    border-radius: 20px 20px 0px 0px;
+}
+.bdr-speciality-bottom{
+    border-radius: 0px 0px 20px 0px;
+}
+
+.bdr-speciality-bottom-left {
+    border-radius: 0px 0px 0px 20px;
+}
+
+/* Header*/
+.h2-header{
+    width: 300px;
+    border: solid;
+    border-radius: 10px;
+    background-color: darkred;
+    margin: auto;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+.section-header{
+    border: solid;
+    background-color: rgb(249, 126, 24);
+    border-radius: 10px;
+    border-color: white;
+}
+
+.body-header {
+    background-color: darkred;
+    color: white;
+}
+
+a:link{
+    text-decoration: none;
+    color: white;
+}
+.link-menu, .link-menu:focus {
+    background-color: darkorange;
+    border-color: white;
+}
+
+.link-menu:hover, .link-menu:active:hover {
+    background-color: darkblue;
+    border-color: white;
+
+}
+/*-- Modal*/
+
+.p-pedigree {
+    font-weight: bold;
+}
+
+.h4-modalTitle{
+    margin: 20px auto;
+    background-color: white;
+    color: black;
+}
+
+.modal-title{
+    font-family: 'Press Start 2P', cursive;
+}
+.modal-title,
+h6 {
+    color:black;
+}
+
+
+/*couleurs progress-bar*/
+.progress-bar-intelligence{
+   background-color: #6eff33;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: black;
+}
+
+.progress-bar-strength{
+    background-color: #ff33f9;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: black;
+}
+
+.progress-bar-speed{
+    background-color: #ffa233;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: black;
+
+}
+
+.progress-bar-durability{
+    background-color: #5233ff;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: black;
+
+}
+
+.progress-bar-power{
+    background-color: #ff3333;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: black;
+
+}
+
+.progress-bar-combat{
+    background-color: #f9ff33;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: black;
+}
+
+.progress-bar-life{
+    background-color: darkred;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    color: white;
+}
+
+audio{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.btn-change-perso{
+    margin: auto;
+}
+
+.a-return{
+    font-size: 15px;
+    padding: 5px;
+    margin-top: 50px;
+}
